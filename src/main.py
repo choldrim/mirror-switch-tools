@@ -83,7 +83,7 @@ class MainWindow(gtk.Window):
     def __init__(self):
         super(MainWindow, self).__init__()
 
-        self.set_title(_("deepin Test Mirror Switching Tool"))
+        self.set_title(_("Mirror Switching Tool"))
         #self.set_size_request(404, 160)
         self.set_position(gtk.WIN_POS_CENTER)
         self.set_resizable(False)

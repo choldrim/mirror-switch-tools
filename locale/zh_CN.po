@@ -21,8 +21,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../src/main.py:55
-msgid "deepin Test Mirror Switching Tool"
-msgstr "deepin测试源切换工具"
+msgid "Mirror Switching Tool"
+msgstr "镜像源切换工具"
 
 #: ../src/main.py:63 ../src/main.py:64
 msgid "Select the mirror:"

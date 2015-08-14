@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Mirror Switching Tool
+Name[zh_CN]=镜像源切换工具
 Comment=Mirror Switching Tool for Deepin
+Comment[zh_CN]=deepin镜像源切换工具
 Exec=gksu mirror-switching-tool
 Icon=deepin-logo
 Terminal=false
